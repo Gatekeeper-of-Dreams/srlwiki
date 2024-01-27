@@ -13,7 +13,7 @@ Founding date: 524 *First founding*, February 2023 *resurrection*
 
 ## About the Grand Elder
 
-*images coming soon*
+*image of Emi in robe* *image of Emi in gown*
 
 Name: Emi
 
@@ -128,6 +128,17 @@ Neighboring nations felt that Kirameku posed a threat to their safety and they r
 In 2023, a young mage named Emi came across the ruins of Kirameku's capital while exploring. Curiosity consumed her enough to have a desire to rebuild what used to be there. She finds the tome Spiorad intentionally left out in hopes that someone could reseal Coirbeachd when the time came *she didn't read far enough to know that it was intended that she unseal him and reseal him since she freaked out at the idea of a demon in the area, but instructions were still followed so mission failed successfully). Naz filled her in on the information needed and the nation was miraculously able to rise from its *both figurative and literal* ashes. Emi is also allowing current settlements that are now on Kirameku's old land to stay, and she's expanded the land to some islands south of Kirameku and Sidelabs so it wouldn't just be the island that once was - and still is - Kirameku's capital.
 
 
+## Politics
+
+Kirameku has a rather interesting government setup. There isn't really a certain real-world government structure that 100% matches Kirameku's structure. What I can say is the number of those in leadership positions fluctuates between 1 and 10+ and elders typically get into their position via heirarchy. The leaders are a council of elders. The head of the council, the Grand Elder, is also the main leader of the faction. All major descisions, domestic or international, are made by them.
+
+Responsiblities are also divided up among the elders. Each elder has a region they lead, the Grand Elder staying at the capital. Elders may have responsibilities based on the regions they lead or based on what important skills needed for leading a country they may be best at.
+
+*diagram of Kiramekan government here*
+
+For the current leadership, Emi is the grand elder and Saph is an elder working with her. Emi specializes with magic, magic-based defense, and research into the history and culture of her people. She also gets say of all the official calls Kirameku makes. Saph takes care of international relations and also gives tips to help Emi run Kirameku.
+
+
 ## Holidays of Importance
 
 * Summer and Winter solstices and Fall and Spring Equinoxes
@@ -145,3 +156,8 @@ This is kinda of a TLDR where you list your top 5 things that are unique or diff
 * The national symbol is the blue monarch butterfly, representing Kirameku's rebirth and the culture around spirits and the dead.
 * As a nation of mages and with the Grand Elder being the last living mage, Kirameku is well-known for their magic.
 * The national motto is "Honoring past tragedies to realize future miracles".
+
+# Trivia
+* Emi and Saph are both OCs I've had for years that have evolved over time. Both of their names come from gems. Emerald -> Emi; Sapphire -> Saph
+* Kirameku has three main flags that are displayed at the Northeastern border. The current and official flag has a black border and has a blue monarch butterfly on a teal field and when in sunlight, it sparkles with a design representing the fairy gems that grow naturally in Kirameku and offer protection to its users. The ancient flag is flown October through December to represent the legacy and tragedy of the old nation. It has a teal field, a white banner, and a gold design depicting the earth, representing their vow to keep the world peaceful, even with the differences between magic and non-magic. The real-world progress flag is flown June through August for Pride Month.
+* The original name of Kirameku was "Interdimensional Syndicate", sharing a name with my Tumblr page and the instagram page I've dedicated to my comics. The flag depicted a book on a table with the symbol for Anarchy over it. As the Coirbeachd storyline went on, I changed the region's name to The Arcanelands to reference the heavy presence of magic in the area in the lore. Finally it was changed to Kirameku and it's my intention to keep it as Kirameku.
